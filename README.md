@@ -18,11 +18,12 @@ This style of analysis also translates well to product and research contexts whe
 - Interpretability-focused analysis  
 
 # Repository Structure
-├── text_analyzer.py
-├── results_and_analysis.ipynb
-├── data/
-│   └── shakespeare_sonnets/
-└── README.md
+.
+|-- text_analyzer.py
+|-- results_and_analysis.ipynb
+|-- data/
+|   `-- shakespeare_sonnets/
+`-- README.md
 
 # How to Run
 1. Ensure Python and Jupyter Notebook are installed.
