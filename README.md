@@ -21,12 +21,10 @@ This style of analysis also translates well to product and research contexts whe
 
 ```
 .
-├── KeystoneHomesDataAnalysis.ipynb
-├── boston-fy2025-property-assessment-data_12_30_2024.csv
-├── boston-311-metadata.csv
-├── Census_Leading-Institutions-by-Institutional-Type_OD24_Website.xlsx
-├── zillow-all-homes-plus-multifamily-time-series-zipcode.csv
-├── zip-codes-database-FREE.csv
+├── text_analyzer.py
+├── results_and_analysis.ipynb
+├── data/
+│   └── shakespeare_sonnets/
 └── README.md
 ```
 
