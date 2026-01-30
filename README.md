@@ -5,6 +5,8 @@ This project performs exploratory text analysis on Shakespeare’s sonnets using
 
 Rather than relying heavily on prebuilt NLP pipelines, the project emphasizes understanding the text through lightweight preprocessing, frequency analysis, and targeted exploration. This approach makes it easier to connect quantitative patterns back to the source material and reason about why those patterns appear.
 
+This project was completed as part of the Intro to Machine Learning, CS 135, curriculum. This was a fun one!
+
 # Potential Applications
 Exploratory text analysis techniques like those used here are applicable to a wide range of document-driven problems, including literary analysis, content auditing, document summarization, and early-stage NLP research. The workflow is particularly useful when the goal is insight and interpretability rather than prediction.
 
